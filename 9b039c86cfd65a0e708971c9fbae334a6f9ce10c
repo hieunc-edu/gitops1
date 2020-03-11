@@ -1,0 +1,1 @@
+{"jobID":"ce93921d-478a-b17b-3550-9ce6d308173f","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"hieunc:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
